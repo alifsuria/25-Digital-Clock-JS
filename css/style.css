@@ -1,0 +1,24 @@
+body{
+height: 100vh;
+background-color: lightblue;
+}
+
+
+.card-title{
+font-size: 3.5rem;
+font-weight: 600;
+}
+
+.card-header{
+    background: lightcoral;
+    color: white;
+}
+
+.card-body{
+    font-size: 5rem;
+    background-color: black;
+}
+
+#time{
+    color: white;
+}
